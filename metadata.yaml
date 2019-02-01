@@ -1,11 +1,16 @@
 _repo: Neues-Spanisch-Deutsches-Worterbuch-Nuevo-diccionario-espanol-aleman_58782
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58782-h/images/cover.jpg
 creator:
   author:
     agent_name: Stromer, Theodor
     gutenberg_agent_id: '50150'
     url: http://www.gutenberg.org/2009/agents/50150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58782#Neues-Spanisch-Deutsches-Worterbuch-Nuevo-diccionario-espanol-aleman
 gutenberg_issued: '2019-01-27'
 gutenberg_type: Text
 identifiers:
