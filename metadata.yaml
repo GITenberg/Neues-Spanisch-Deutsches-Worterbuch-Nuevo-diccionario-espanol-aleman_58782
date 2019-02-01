@@ -1,0 +1,20 @@
+_repo: Neues-Spanisch-Deutsches-Worterbuch-Nuevo-diccionario-espanol-aleman_58782
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stromer, Theodor
+    gutenberg_agent_id: '50150'
+    url: http://www.gutenberg.org/2009/agents/50150
+description: ''
+gutenberg_issued: '2019-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58782'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Neues Spanisch-Deutsches Wörterbuch || Nuevo diccionario español-alemán
+url: http://www.gutenberg.org/ebooks/58782
